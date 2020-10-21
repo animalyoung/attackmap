@@ -1,2 +1,2 @@
 # attackmap
-Abgabe Projektgruppe Malware-Bootcamp
+Für die Installationsanleitung, die Readme im Ordner "attack_map" anschauen.
