@@ -15,7 +15,3 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'App\Http\Controllers\WorldMapController@index');
-
-Route::get('/onemap', 'App\Http\Controllers\OneMapController@index');
-
-Route::get('/kaspersky', 'App\Http\Controllers\KasperskyController@index');
